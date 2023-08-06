@@ -1,0 +1,85 @@
+body {
+    background: black;
+    height: 1600px;
+
+}
+.js{
+    font-size:43px;
+    color:white;
+    font-family: "HoloLens MDL2 Assets",sans-serif;
+    text-align: center;
+}
+.css{
+    font-size:43px;
+    color:white;
+    font-family: "HoloLens MDL2 Assets",sans-serif;
+    text-align: center;
+}
+.html{
+    font-size:43px;
+    color:white;
+    font-family: "HoloLens MDL2 Assets",sans-serif;
+    text-align: center;
+}
+
+.conteniar{
+    font-size: 20px;
+    font-family: "Cascadia Code",sans-serif;
+    color: #FFF;
+    opacity: 0.7;
+    text-align: center;
+    padding: 25px;
+    margin: 150px;
+    display: inline-block;
+    border-radius: 3em;
+    background: #222222;
+}
+.text{
+    font-size: 20px;
+}
+.conteniar2{
+    font-size: 20px;
+    font-family: "Cascadia Code",sans-serif;
+    color: #FFF;
+    opacity: 0.7;
+    text-align: center;
+    padding: 25px;
+    margin-left: 460px;
+    display: inline-block;
+    border-radius: 3em;
+    background: #222222;
+}
+.text2{
+    font-size: 20px;
+}
+.conteniar3{
+    font-size: 20px;
+    font-family: "Cascadia Code",sans-serif;
+    color: #FFF;
+    opacity: 0.7;
+    text-align: center;
+    padding: 25px;
+    margin: 200px;
+    display: inline-block;
+    border-radius: 3em;
+    background: #222222;
+
+}
+.text3{
+    font-size: 20px;
+}
+.conteniar4{
+    font-size: 20px;
+    font-family: "Cascadia Code",sans-serif;
+    color: #FFF;
+    opacity: 0.7;
+    text-align: center;
+    padding: 25px;
+
+    display: inline-block;
+    border-radius: 3em;
+    background: #222222;
+}
+.text4{
+    font-size: 20px;
+}
